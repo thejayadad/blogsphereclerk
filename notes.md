@@ -81,6 +81,8 @@ export function ConvexClientProvider({ children }: { children: ReactNode }) {
 
 ```
 - update to add the user info
+- add the helper function in the mutation
+- add the list to get all users from the database
 
 
 
@@ -89,9 +91,3 @@ export function ConvexClientProvider({ children }: { children: ReactNode }) {
  - follow the docs
  - create a component file name editor
 
-## DATABASE SETUP 
-- npm i mongoose
-- db function
-- mongodb setup
-- model setup
-- 
